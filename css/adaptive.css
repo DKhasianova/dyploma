@@ -1,0 +1,1618 @@
+@media screen and (max-width: 1371px) {
+    .mandala-slick-two {
+        position: absolute;
+        top: -31px;
+        right: 28px;
+    }
+
+    .mandala-slick-three {
+        position: absolute;
+        top: -24px;
+        left: 407px;
+        width: 273px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -26px;
+        left: 64px;
+    }
+}
+
+
+/*1024-1199*/
+@media screen and (max-width: 1199px) {
+    #header {
+        width: 85%;
+        margin: 0 auto;
+    }
+    .slick-slider {
+        width: 635px;
+        margin: 0 auto;
+    }
+
+    #yoga-moscow {
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 28px;
+    }
+
+    .img-girl {
+        width: 556px;
+        margin-bottom: 149px;
+    }
+
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-text {
+        max-width: 358px;
+    }
+
+    #welcome {
+        margin-top: 51px;
+    }
+
+    #staff-container {
+        width: 66%;
+        margin: 0 auto;
+    }
+
+    /*
+        .worker-image img {
+            width: 220px;
+        }
+
+     */
+    /*
+        .my-yoga-foto {
+            width: 220px;
+            height: 220px;
+        }
+
+     */
+    .mandala-slick {
+        position: absolute;
+        top: -26px;
+        left: 19px;
+    }
+
+    .mandala-slick-two {
+        display: none;
+    }
+
+    .mandala-slick-three {
+        position: absolute;
+        top: -14px;
+        left: 405px;
+        width: 245px;
+    }
+
+    .sick .slick-next {
+        right: -25px;
+    }
+
+    .sick .slick-prev {
+        left: -70px;
+    }
+
+    #type .type-posing {
+        width: 85%;
+        margin: 0 auto;
+        justify-content: center;
+        flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+
+    }
+
+    #type .type-posing-text {
+        width: 337px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+    }
+
+
+    #welcome-yoga {
+        width: 85%;
+        margin: 0 auto;
+    }
+
+    #offers {
+        justify-content: end;
+        width: 85%;
+        margin: 53px auto;
+    }
+
+    #welcome-yoga-description #welcome-yoga-description-title {
+        font-size: 34px;
+    }
+
+
+    #footer-container {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    #footer #footer-container #footer-logo #footer-logo-text {
+        font-size: 26px;
+    }
+
+    #rights {
+        font-size: 12px
+    }
+
+
+    #policy {
+        font-size: 12px;
+    }
+
+    #offers {
+        justify-content: space-between;
+    }
+
+    #offers .offer {
+        margin-right: 85px;
+    }
+
+    .worker-content {
+        margin-left: 0;
+    }
+
+    #menu ul {
+        display: flex;
+        justify-content: space-around;
+        width: 442px;
+    }
+
+    .img-girl {
+        width: 497px;
+        margin-bottom: 180px;
+    }
+
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 31px;
+        line-height: 43px;
+    }
+
+    #staff {
+        max-width: 95%;
+        margin: 0 auto;
+    }
+
+    .slick-container {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    .worker-content {
+        margin-left: -17px;
+    }
+}
+
+@media screen and (max-width: 888px) {
+    .worker-content {
+        margin-left: 9px;
+    }
+
+    #schedule .days {
+        margin-right: 18px;
+    }
+    .slick-slider {
+        width: 300px;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .mandala-slick {
+        position: absolute;
+        top: -26px;
+        left: 172px;
+    }
+
+    .mandala-slick-two {
+        position: absolute;
+        top: -26px;
+        right: -22px;
+        display: block;
+    }
+    .slick-slider {
+        width: 300px;
+        margin: 0 auto;
+    }
+}
+
+
+/*768-1023*/
+@media screen and (max-width: 1023px) {
+
+    #header #header-container #logo .logo-text {
+        margin-left: 15px;
+        font-size: 22px;
+    }
+    .slick-slider {
+        width: 600px;
+        margin: 0 auto;
+    }
+    #form {
+        position: absolute;
+        bottom: 2px;
+        z-index: 9999;
+        left: 0;
+    }
+
+    #schedule {
+        flex-direction: column;
+    }
+
+    #schedule .days {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+
+    #call-btn .btn-rose {
+        margin-bottom: 40px;
+    }
+
+    #btn-yoga {
+        padding-bottom: 84px;
+    }
+
+    #header #header-container .menu ul li {
+        text-decoration: none;
+        font-size: 13px;
+    }
+
+    #header #header-container .order-btn {
+        width: 157px;
+    }
+
+    #yoga-moscow-description #yoga-moscow-description-title {
+        line-height: 32px;
+        font-size: 23px;
+        margin-bottom: 47px;
+        margin-top: 40px;
+
+    }
+
+    .img-girl {
+        width: 300px;
+    }
+
+    .btn-rose {
+        font-size: 15px;
+        width: 233px;
+    }
+
+    #welcome-yoga img {
+        width: 300px;
+    }
+
+    #welcome-yoga-description {
+        margin-left: 57px;
+    }
+
+    #offers {
+        justify-content: space-between;
+    }
+
+    #offers .offer {
+        margin-right: 44px;
+    }
+
+    #offers .offer .offer-number {
+        font-size: 36px;
+    }
+
+    #offers .offer .offer-number {
+        font-size: 36px;
+        width: 115px;
+        text-align: center;
+    }
+
+    #offers .offer .offer-text {
+        font-size: 14px;
+        text-align: center;
+        width: 113px;
+    }
+
+    .type-posing-text {
+        flex-direction: column;
+    }
+
+    .mandala-slick-three {
+        display: none;
+    }
+
+
+    #type .type-posing {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: wrap;
+    }
+
+    .type-posing-text {
+        width: 325px;
+        display: flex;
+    }
+
+    .type-posing-text-foto {
+        position: relative;
+        display: flex;
+        justify-content: center;
+    }
+
+    .ellipse {
+        position: absolute;
+        z-index: 2;
+        top: -48px;
+        right: 39px;
+    }
+
+    #type .type-title-price {
+        margin-top: 16px;
+    }
+
+    .mandala-background img {
+        width: 290px;
+    }
+
+    .yoga-first-one {
+        position: absolute;
+        top: -63px;
+        left: 82px;
+        height: 157px;
+    }
+
+    .yoga-first-two {
+        position: absolute;
+        top: 10px;
+        left: 200px;
+        height: 156px;
+    }
+
+    .yoga-first-three {
+        position: absolute;
+        height: 132px;
+        left: 103px;
+        top: 64px;
+    }
+
+    .yoga-second-one {
+        height: 183px;
+        position: absolute;
+    }
+
+    .yoga-second-two {
+        position: absolute;
+        right: 12px;
+        top: 152px;
+    }
+
+    .yoga-second-three {
+        position: absolute;
+        right: 47px;
+        top: 286px;
+        height: 158px
+    }
+
+    .mandala-background {
+        position: absolute;
+        top: -12px;
+    }
+
+    #footer #footer-container #footer-logo #footer-logo-text {
+        font-size: 14px;
+    }
+
+    #footer #footer-container #rights {
+        display: none;
+    }
+
+    #footer #footer-container #policy {
+        font-size: 12px;
+    }
+
+    #footer #footer-container #footer-phone #footer-phone-text {
+        font-size: 12px;
+    }
+
+    #footer #footer-container #footer-phone #footer-phone-text {
+        font-size: 10px;
+        padding: 8px 14px;
+    }
+
+    #type .type-posing .ellipse {
+        position: absolute;
+        z-index: 2;
+        top: -48px;
+        right: 40px;
+    }
+
+    #menu ul li {
+        list-style: none;
+        font-size: 12px;
+    }
+
+    #menu ul {
+        display: flex;
+        justify-content: space-between;
+        width: 280px;
+        font-size: 10px;
+    }
+
+    #header #header-container .order-btn {
+        width: 127px;
+        font-size: 11px;
+    }
+
+    #staff {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    .worker-content {
+        margin-left: -24px;
+    }
+
+    #slick-container {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+
+    .worker-image {
+        width: 310px;
+        margin: 0 auto;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -26px;
+        left: 185px;
+    }
+
+    .mandala-slick {
+        width: 298px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -26px;
+        left: 136px;
+    }
+
+    .mandala-slick-two {
+        display: none;
+    }
+    #call .name{
+        margin-left: 0px;
+    }
+    .slick-slider {
+
+        margin: 0 auto;
+    }
+    #menu ul {
+        display: flex;
+        justify-content: space-between;
+        width: 390px;
+        font-size: 10px;
+    }
+    #menu ul li {
+        list-style: none;
+        font-size: 15px;
+    }
+    #menu ul{
+        margin-right: 15px;
+        padding-left: 13px;
+    }
+    #header #header-container .order-btn {
+        width: 167px;
+        font-size: 13px;
+    }
+
+}
+
+
+@media screen and (min-width: 763px) {
+    #type .type-posing-text {
+        width: 323px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (min-width: 709px) {
+    #type .type-posing-text {
+        width: 333px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+    }
+
+}
+
+@media screen and (max-width: 610px) {
+    .worker-content {
+        margin-left: -16px;
+    }
+    .slick-slider {
+        width: 300px;
+        margin: 0 auto;
+    }
+}
+
+/*580-767*/
+@media screen and (max-width: 767px) {
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 21px;
+        line-height: 24px;
+        margin-bottom: 31px;
+    }
+    .slick-slider {
+        width: 300px;
+        margin: 0 auto;
+    }
+
+
+    #schedule .days {
+        margin-left: 15px;
+    }
+
+
+
+    .choose {
+        flex-direction: column;
+        padding-bottom: 15px;
+    }
+
+
+
+    .days .day {
+        font-size: 14px;
+    }
+
+    .days .day.active {
+        font-size: 16px;
+    }
+
+    #call {
+        flex-direction: column;
+    }
+
+    #call .phone {
+        margin-left: 0;
+    }
+
+
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-text {
+        font-size: 14px;
+    }
+
+    .img-girl {
+        width: 556px;
+        margin-bottom: 149px;
+    }
+
+    #header #header-container #burger {
+        display: block;
+        color: #9f2546;
+    }
+
+    .img-girl {
+        width: 200px;
+    }
+
+    .btn-rose {
+        font-size: 15px;
+        width: 204px;
+    }
+
+    #welcome-yoga img {
+        width: 254px;
+    }
+
+    #welcome #welcome-container #welcome-yoga {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #welcome-yoga-description {
+        margin-top: 30px;
+    }
+
+    #welcome-yoga-description #welcome-yoga-description-title {
+        text-align: center;
+        max-width: 900px;
+    }
+
+    #welcome-yoga-description #welcome-yoga-description-text {
+        text-align: center;
+    }
+
+    #offers {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #offers .offer .offer-text.more {
+        width: 113px;
+    }
+
+    #welcome-yoga-description #welcome-yoga-description-text {
+        font-size: 14px;
+        font-family: "Gilroy-Regular", sans-serif;
+        color: rgb(58, 4, 19);
+        max-width: 506px;
+    }
+
+    #offers .offer {
+        width: 214px;
+        margin-bottom: 40px;
+    }
+
+    #welcome-yoga-description {
+        margin-left: 0;
+    }
+
+    #offers .offer {
+        margin-right: 0;
+    }
+
+    #offers .offer .offer-text {
+        width: 142px;
+    }
+
+    #offers .offer .offer-text.more {
+        width: 148px;
+    }
+
+    /*
+    .worker-image img {
+        width: 118px;
+        height: 118px;}
+
+     */
+    .product-content-title {
+        font-size: 12px;
+    }
+
+    .product-content-description {
+        font-size: 12px;
+    }
+
+    #type {
+        margin: 69px auto 115px auto;
+    }
+
+    .yoga-first-one {
+        position: absolute;
+        top: -63px;
+        left: 18px;
+        height: 140px;
+    }
+
+    .yoga-first-two {
+        position: absolute;
+        top: -32px;
+        left: 118px;
+        height: 141px;
+    }
+
+    .yoga-first-three {
+        position: absolute;
+        height: 128px;
+        left: 64px;
+        top: 37px;
+    }
+
+    #place-foto-block .place-foto-block-title {
+        font-size: 16px;
+    }
+
+    #place-foto-block .place-foto-block-text {
+        font-size: 12px;
+        font-family: "Gilroy-Regular", sans-serif;
+        color: rgb(58, 4, 19);
+        max-width: 210px;
+    }
+
+    #place-foto-block .first-place-foto-block .place-foto-block-title {
+        padding-top: 224px;
+    }
+
+    .mandala-background img {
+        width: 177px;
+    }
+
+    .yoga-second-one {
+        height: 144px;
+        position: absolute;
+        right: 93px;
+    }
+
+    .yoga-second-two {
+        position: absolute;
+        right: 1px;
+        top: 195px;
+        height: 124px;
+    }
+
+    .yoga-second-three {
+        position: absolute;
+        right: 47px;
+        top: 286px;
+        height: 110px;
+    }
+
+    #footer #footer-container #policy {
+        display: none;
+    }
+
+    #footer #footer-container #rights {
+        display: block;
+    }
+
+    #footer #footer-container #footer-phone {
+        display: none;
+    }
+
+    #footer #footer-container #footer-phone {
+        display: none;
+    }
+
+    #form {
+        width: 301px;
+    }
+
+    #menu ul {
+        display: none;
+    }
+
+    #header #header-container #logo {
+        margin: 0 auto;
+    }
+
+    #slick-container {
+        max-width: 74%;
+        margin: 0 auto;
+    }
+
+    .worker-content {
+        margin-left: -227px;
+    }
+
+    .worker-content {
+        margin-left: -62px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -26px;
+        left: 57px;
+    }
+
+    .worker-content {
+        margin-left: -4px;
+    }
+    .day{
+        margin-right: 15px;
+    }
+    .choose{
+        padding-left: 212px;
+    }
+    #header {
+        position: relative;
+    }
+
+    #menu {
+        top: 74px;
+        position: fixed;
+        background: #ffd4d4e8;
+        z-index: 3;
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        display: none;
+    }
+
+    #menu ul {
+        display: block;
+        width: auto;
+    }
+
+    #header.menu-open {
+        width: 100%;
+        background: #ffd4d4e8;
+    }
+    #header.menu-open #menu {
+        display: block;
+    }
+
+    #header.menu-open #header-container #burger {
+        padding-left: 20px;
+    }
+
+    #header.menu-open #header-container {
+        padding-right: 20px;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-text {
+        font-size: 17px;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 23px;
+        line-height: 24px;
+        margin-bottom: 31px;
+    }
+    #place-foto-block .place-foto-block-text {
+        font-size: 14px;
+        font-family: "Gilroy-Regular", sans-serif;
+        color: rgb(58, 4, 19);
+        max-width: 210px;
+    }
+}
+
+@media screen and (max-width: 606px) {
+    .worker-content {
+        margin-left: -4px;
+    }
+}
+
+/*480-579*/
+@media screen and (max-width: 579px) {
+
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 22px;
+    }
+
+    #slick-container {
+        max-width: 60%;
+        margin: 0 auto;
+    }
+
+    .days {
+        flex-direction: column;
+    }
+
+    .choose {
+        margin-right: -32px;
+    }
+
+    .choose:hover {
+        background: #9f2546;
+        margin-right: 0;
+        width: 170px;
+        height: 115px;
+    }
+
+    #call .phone {
+        width: 175px;
+    }
+
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-text {
+        font-size: 12px;
+    }
+
+    .btn-rose {
+        font-size: 13px;
+        width: 171px;
+        padding-bottom: 17px;
+        padding-top: 17px;
+    }
+
+    #header #header-container .order-btn {
+        width: 140px;
+        font-size: 12px;
+        padding-top: 11px;
+        padding-bottom: 10px;
+    }
+
+    #welcome-yoga-description #welcome-yoga-description-title {
+        font-size: 26px;
+
+    }
+
+    #staff {
+        margin-top: 50px;
+    }
+
+    #staff #staff-container #our-staff #our-staff-text {
+        max-width: 300px;
+    }
+
+    /*
+    .worker-image img {
+        width: 100px;
+        height: 101px;
+    }
+
+     */
+    .mandala-slick-three {
+        position: absolute;
+        top: -24px;
+        left: 233px;
+        width: 86px;
+    }
+
+    .mandala-slick-two {
+        position: absolute;
+        top: -22px;
+        right: 111px;
+        width: 84px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -20px;
+        left: 18px;
+        width: 85px;
+    }
+
+    .yoga-first-three {
+        position: absolute;
+        height: 111px;
+        left: 18px;
+        top: -1px;
+    }
+
+    .yoga-first-two {
+        position: absolute;
+        top: -32px;
+        left: 68px;
+        height: 114px;
+    }
+
+    .yoga-first-one {
+        position: absolute;
+        top: -63px;
+        left: 5px;
+        height: 110px;
+    }
+
+    .yoga-second-one {
+        height: 123px;
+        position: absolute;
+        right: 93px;
+    }
+
+    .yoga-second-two {
+        position: absolute;
+        right: 19px;
+        top: 195px;
+        height: 103px;
+    }
+
+    .yoga-second-three {
+        position: absolute;
+        right: 47px;
+        top: 262px;
+        height: 104px;
+    }
+
+    .mandala-background img {
+        width: 156px;
+    }
+
+    #form {
+      width: auto;
+        left: 124px;
+        padding-top: 67px;
+        position: initial;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        padding-left: 0;
+    }
+
+    .name {
+        width: 175px;
+    }
+
+    .phone {
+        width: 175px;
+    }
+
+    #title-online {
+        font-size: 16px;
+    }
+
+    #footer #footer-container .btn-footer {
+        padding: 13px 15px;
+        font-size: 12px;
+    }
+
+    #footer #footer-container #rights {
+        font-size: 12px;
+    }
+
+    #header {
+        position: relative;
+    }
+
+    #menu {
+        top: 74px;
+        position: fixed;
+        background: #ffd4d4e8;
+        z-index: 3;
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        display: none;
+    }
+
+    #menu ul {
+        display: block;
+        width: auto;
+    }
+
+    #header.menu-open {
+        width: 100%;
+        background: #ffd4d4e8;
+    }
+
+    #header #header-container .order-btn {
+        width: 119px;
+        font-size: 11px;
+        padding-top: 13px;
+        padding-bottom: 10px;
+    }
+
+    #logo img {
+        margin-left: -2px;
+    }
+
+    #header #header-container #logo .logo-text {
+        margin-left: 5px;
+        font-size: 14px;
+    }
+
+    #header.menu-open #menu {
+        display: block;
+    }
+
+    #header.menu-open #header-container #burger {
+        padding-left: 20px;
+    }
+
+    #header.menu-open #header-container {
+        padding-right: 20px;
+    }
+
+    #slick-container {
+        max-width: 86%;
+        margin: 0 auto;
+    }
+
+    .mandala-slick {
+        width: 298px;
+    }
+
+    #slick-container {
+        max-width: 91%;
+        margin: 0 auto;
+    }
+
+    .sick .slick-prev {
+        left: -47px;
+    }
+
+    .worker-content {
+        margin-left: 2px;
+    }
+
+
+    .choose {
+        padding-left: 117px;
+        margin-right: -7px;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-text {
+        font-size: 17px;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 26px;
+        line-height: 24px;
+        margin-bottom: 31px;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 25px;
+        line-height: 32px;
+        margin-bottom: 31px;
+        margin-right: 20px;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-text {
+        font-size: 16px;
+    }
+
+
+}
+
+
+/*320-479*/
+@media screen and (max-width: 479px) {
+    #yoga-moscow {
+        flex-wrap: wrap;
+        flex-direction: column;
+
+    }
+
+    .slick-slider {
+        width: 250px;
+        margin: 0 auto;
+    }
+
+
+    #call .name {
+        width: 175px;
+    }
+
+    #pop-up-title {
+        font-size: 29px;
+    }
+
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 14px;
+        text-align: center;
+        margin-right: 0;
+    }
+
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-text {
+        font-size: 12px;
+        text-align: center;
+        margin-bottom: 37px;
+    }
+
+    .img-girl {
+        margin-bottom: 54px;
+        margin-top: -64px;
+    }
+
+    #logo img {
+        margin-left: 20px;
+    }
+
+    #header #header-container #logo .logo-text {
+        margin-left: 15px;
+        font-size: 14px;
+    }
+
+    #staff #staff-container #our-staff #our-staff-title {
+        font-size: 27px;
+    }
+
+
+    #place {
+        margin-bottom: 118px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #place-foto-block {
+        display: block;
+    }
+
+    .first-place-foto-block {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 85%;
+        margin: 0 auto;
+
+    }
+
+    .mandala-background {
+        position: absolute;
+        top: -5px;
+    }
+
+    .yoga-first-one {
+        position: absolute;
+        top: -83px;
+        left: 77px;
+        height: 123px;
+    }
+
+    .yoga-first-two {
+        position: absolute;
+        top: -32px;
+        left: 147px;
+        height: 134px;
+    }
+
+    .yoga-first-three {
+        position: absolute;
+        height: 125px;
+        left: 86px;
+        top: -1px;
+    }
+
+    #place-foto-block .first-place-foto-block .place-foto-block-title {
+        padding-top: 181px;
+    }
+
+    #place-foto-block .place-foto-block-text {
+        font-size: 12px;
+        font-family: "Gilroy-Regular", sans-serif;
+        color: rgb(58, 4, 19);
+        max-width: 279px;
+    }
+
+    .yoga-second-two {
+        position: absolute;
+        right: 24px;
+        top: -202px;
+        height: 112px;
+    }
+
+    .yoga-second-one {
+        height: 138px;
+        position: absolute;
+        right: 109px;
+        top: -221px;
+    }
+
+    .yoga-second-three {
+        position: absolute;
+        right: 76px;
+        top: -138px;
+        height: 114px;
+    }
+
+    .second-place-foto-block {
+        display: flex;
+        flex-direction: column;
+        width: 85%;
+        margin: 278px auto 0 auto;
+        text-align: center;
+    }
+
+    .mandala-background img {
+        position: absolute;
+        top: -132px;
+        left: 40px;
+    }
+
+    #place #place-title {
+        margin-bottom: 156px;
+    }
+
+    #form {
+        width: 279px;
+        left: 124px;
+        padding-left: 39px;
+        padding-top: 67px;
+        position: initial;
+    }
+
+    .phone {
+        width: 219px;
+    }
+
+    .name {
+        width: 219px;
+    }
+
+    #footer #footer-container #rights {
+        display: none;
+    }
+
+    #footer #footer-container #policy {
+        display: none;
+    }
+
+    .mandala-slick-three {
+        position: absolute;
+        top: -24px;
+        left: 122px;
+        width: 86px;
+    }
+
+    /*
+    .worker-image img {
+        width: 70px;
+        height: 70px;
+    }
+
+     */
+    #btn-yoga {
+        text-align: center;
+    }
+
+    #header {
+        position: relative;
+    }
+
+    #menu {
+        top: 74px;
+        position: fixed;
+        background: #ffd4d4e8;
+        z-index: 3;
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;
+        display: none;
+    }
+
+    #menu ul {
+        display: block;
+        width: auto;
+    }
+
+    #header.menu-open {
+        width: 100%;
+        background: #ffd4d4e8;
+    }
+
+    #header #header-container .order-btn {
+        width: 119px;
+        font-size: 11px;
+        padding-top: 13px;
+        padding-bottom: 10px;
+    }
+
+    #logo img {
+        margin-left: -2px;
+    }
+
+    #header #header-container #logo .logo-text {
+        margin-left: 5px;
+        font-size: 14px;
+    }
+
+    #header.menu-open #menu {
+        display: block;
+    }
+
+    #header.menu-open #header-container #burger {
+        padding-left: 20px;
+    }
+
+    #header.menu-open #header-container {
+        padding-right: 20px;
+    }
+
+    .img-girl {
+        margin-bottom: 137px;
+        margin-top: -150px;
+    }
+
+    .reserve {
+        padding-right: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #form {
+        width: 100%;
+        left: 124px;
+        padding-top: 67px;
+        position: initial;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        padding-left: 0;
+
+    }
+
+    #slick-container {
+        max-width: 96%;
+        margin: 0 auto;
+    }
+
+    .worker-content {
+        margin-left: 0px;
+    }
+
+    .worker-image img {
+        width: 204px;
+        height: 204px;
+    }
+
+    .worker-content {
+        margin-left: -24px;
+    }
+
+    .mandala-background img {
+        position: absolute;
+        top: -123px;
+        left: 155px;
+    }
+
+    .worker-content {
+        margin-left: -3px;
+    }
+
+    #pop-up-title {
+        font-size: 35px;
+        font-family: "PlovdivdDisplay-Bold", sans-serif;
+        color: rgb(159, 37, 70);
+        text-align: center;
+        padding-top: 156px;
+        padding-bottom: 40px;
+    }
+
+    #pop-up {
+        height: 800px;
+    }
+
+    .choose {
+        padding-left: 90px;
+    }
+    #pop-up #reservation-canceled {
+        position: absolute;
+        top: 99px;
+        right: 25px;
+        cursor: pointer;
+    }
+    #call-btn .btn-rose {
+        margin-bottom: 100px;
+    }
+    #pop-up {
+        position: fixed;}
+    .place-foto-block-text{
+        margin: 20px auto;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 20px;
+        text-align: center;
+        margin-right: 0;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-text {
+        font-size: 15px;
+        text-align: center;
+        margin-bottom: 37px;
+    }
+    .yoga-first-one {
+        position: absolute;
+        top: -83px;
+        left: 52px;
+        height: 123px;
+    }
+    .yoga-first-three {
+        position: absolute;
+        height: 125px;
+        left: 56px;
+        top: -1px;
+    }
+    .yoga-first-two {
+        position: absolute;
+        top: -32px;
+        left: 117px;
+        height: 134px;
+    }
+    #header #header-container #logo .logo-text {
+        margin-left: 16px;
+        font-size: 20px;
+    }
+    #yoga-moscow #yoga-moscow-description #yoga-moscow-description-title {
+        font-size: 22px;
+        text-align: center;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 476px) {
+    .worker-image img {
+        width: 243px;
+        height: 243px;
+    }
+
+    .sick {
+        margin-left: 20px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -20px;
+        left: -6px;
+        width: 275px;
+    }
+    #logo{
+        padding-left: 10px;
+    }
+}
+
+@media screen and (max-width: 454px) {
+    .worker-image img {
+        width: 243px;
+        height: 243px;
+    }
+    .worker-content {
+        margin-left: -3px;
+    }
+    .sick {
+        margin-left: 20px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -20px;
+        left: -6px;
+        width: 275px;
+    }
+}
+
+@media screen and (max-width: 448px) {
+    .worker-image img {
+        width: 243px;
+        height: 243px;
+    }
+
+    .sick {
+        margin-left: 20px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -20px;
+        left: -6px;
+        width: 275px;
+    }
+}
+
+@media screen and (max-width: 444px) {
+    .worker-image img {
+        width: 243px;
+        height: 243px;
+    }
+
+    .sick {
+        margin-left: 20px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -20px;
+        left: -6px;
+        width: 220px;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+
+    .worker-image img {
+        width: 182px;
+        height: 182px;
+    }
+
+    .mandala-slick {
+        position: absolute;
+        top: -20px;
+        left: -6px;
+        width: 220px;
+    }
+
+    .sick {
+        margin-left: 20px;
+    }
+    .slick-slider {
+        width: 186px;
+        margin: 0 auto;
+    }
+    .worker-content {
+        margin-left: 5px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .worker-image img {
+        width: 182px;
+        height: 182px;
+    }
+    .slick-slider {
+        width: 186px;
+        margin: 0 auto;
+    }
+}
